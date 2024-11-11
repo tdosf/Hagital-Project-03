@@ -171,7 +171,7 @@ Disabled
 Host group
 -
 Host
--
+--
 Proximity placement group
 -
 Colocation status
